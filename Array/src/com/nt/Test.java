@@ -6,7 +6,7 @@ import java.util.Map;
 
 class Test{
 	
-	public static void main(String[] args) {
+	//public static void main(String[] args) {
 		
 		Map d=new HashMap();
 		
